@@ -1,2 +1,5 @@
+# mac OS
+*.DS_Store
+
 # zola generated page
 public
